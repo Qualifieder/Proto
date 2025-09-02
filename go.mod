@@ -1,4 +1,4 @@
-module github.com/Qualifieder/Protos
+module github.com/Qualifieder/Proto
 
 go 1.24.5
 
